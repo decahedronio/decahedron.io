@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# Hello!
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+We are Decahedron, a team of professional web and software developers.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Between us, we have the experience and skill sets to make your next web venture a success.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+We proudly sit in the world of open-source PHP, frequently choosing Laravel and AngularJS as our tools of the trade.
